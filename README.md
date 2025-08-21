@@ -31,7 +31,7 @@ A **modern, responsive portfolio website** built with **HTML, CSS, and JavaScrip
 
 1. **Clone or Download** this repository:  
    ```bash
-   git clone https://github.com/your-username/portfolio.git
-   cd portfolio
+   git clone https://github.com/GURUPRASAD178/Website.git
+   cd Website
  
 
