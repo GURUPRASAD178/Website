@@ -1,7 +1,7 @@
-### Portfolio Website
+# Portfolio Website
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript featuring dark/light mode toggle and smooth animations.
 
-# Features
+## Features
 Responsive Design: Works on all device sizes
 
 Dark/Light Mode: Toggle between themes with persistent preference saving
@@ -12,7 +12,7 @@ Modern UI: Clean, professional design with gradient accents
 
 Interactive Elements: Hover effects and transitions throughout
 
-# Technologies Used
+## Technologies Used
 HTML5
 
 CSS3 (with CSS Variables for theming)
@@ -23,7 +23,7 @@ Font Awesome Icons
 
 Google Fonts (via system fonts)
 
-# Project Structure
+## Project Structure
 text
 portfolio/
 ├── index.html
@@ -31,7 +31,9 @@ portfolio/
 ├── images/
 │   └── profile.jpg (replace with your actual image)
 └── README.md
-Setup Instructions
+
+## Setup Instructions
+
 Clone or download the project files
 
 Replace the placeholder image with your actual profile photo:
